@@ -9,7 +9,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/artdothaus"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/P4RT3DM.gif"/></a>
+  <a href="https://twitter.com/artdothaus"><img width="100%" alt="Twitter" title="Twitter" src="https://i.imgur.com/P4RT3DM.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 

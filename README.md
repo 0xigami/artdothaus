@@ -14,7 +14,35 @@
 </p>
 
 <br/>
+ART HAUS is an artist residency for the metaverse where NFT collectors can become keyholders and unlock privileged access to members-only exclusives. 
 
+Our team is a collective of insanely passionate collectors, creators, and developers. But most importantly, we are curators.
+
+What we do
+We operate in unison with our curation protocol through which our process for artist discovery is augmented by AI-driven recommendations.
+
+Despite our experimental nature as technologists, we understand the importance of connection, and are committed to a bespoke offering with a personal touch.
+
+For artists
+NFTs are a specialised field where we can lend our technical expertise and we are dedicated to helping artists realise the full potential of non-fungible tokens.
+
+Attract investors and serious collectors with our in-depth research and showcasing.
+Take part in our Artist Residency program and  the “Artists in Residence” podcast.
+Premiere forthcoming works and hold exclusive private auctions with keyholders.
+Apply for residency and experience creative sovereignty with your own custom smart contracts.
+
+For collectors
+Exploring NFT utility is something we have been experimenting with for some time and we are committed to collectors experiencing full utilisation of non-fungible tokens.
+
+Unlock privileged access to members-only private content and exclusive auctions.
+Make reservations to purchase early editions of our in-haus project collections.
+Join our curatorship program and be rewarded with referral commissions. 
+And a growing list of forthcoming benefits (stay tuned).
+Become a  keyholder to unlock members-only exclusives, privileged access awaits.
+
+Sincerely,
+
+Head of HAUS
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 
